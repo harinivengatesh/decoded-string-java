@@ -1,6 +1,6 @@
-import java.util.Scanner;
+    import java.util.Scanner;
 
-public class Main{
+    public class Main{
 
     public static String decode(String input) {
         StringBuilder decodedString = new StringBuilder();
