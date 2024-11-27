@@ -26,4 +26,4 @@
         String decodedString = decode(input);
         System.out.println(decodedString);
     }
-}
+    }
